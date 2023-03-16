@@ -10,7 +10,11 @@ Classify videos into 5 classes: news, travel, sports, music, and entertainment
 * now, you can use your API key to extract youtube links to short videos.
 
 ## Step 2: Download video data
-* run video_download.py
+* run ```video_download.py```
+
+## Step 3: Divide video into frames
+
+* run ```frames.py```
 
 
 
